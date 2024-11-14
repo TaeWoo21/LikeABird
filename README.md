@@ -6,9 +6,9 @@ LAB Project
    * Resume
    * Portfolio
 2. English Language
-   * Communication Speaking
+   * Communication Speaking
    * Qualification Test
-3. Programming
+4. Programming
    * Algorithm
    * LeetCode
 5. Computer Science
