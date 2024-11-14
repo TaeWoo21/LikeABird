@@ -3,16 +3,16 @@ LAB Project
 
 <br/>
 
-## Table
-1. Document
+## Table of Contents
+1. Documents
    * Resume
    * Portfolio
 2. English Language
-   * Communication Speaking
-   * Qualification Test
+   * Communication & Speaking
+   * Qualification Tests
 4. Programming
-   * Algorithm
+   * Algorithms
    * LeetCode
 5. Computer Science
 7. Machine Learning
-   * https://developers.google.com/machine-learning/crash-course
+   * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
